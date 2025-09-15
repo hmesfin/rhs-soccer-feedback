@@ -80,7 +80,7 @@ While this is primarily for issue reporting, we welcome:
 ## Helpful Links
 
   - [Documentation](https://app.rhsboyssoccer.com/help)
-  - [Migration Plan](Data-Migration-Plan)
+  - [Migration Plan](https://github.com/hmesfin/rhs-soccer-feedback/wiki/Data-Migration-Plan)
   - [FAQs](FAQs)
 
 

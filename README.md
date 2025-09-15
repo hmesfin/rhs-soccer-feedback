@@ -27,7 +27,7 @@ We aim to respond to issues based on priority:
 ## Security & Privacy
 
 - **Never** include passwords, credit card numbers, or other sensitive information in issues
-- For sensitive matters, email us directly at <security@rhssoccer.org>
+- For sensitive matters, email us directly at <security@gojjoapps.com>
 - Payment issues are tagged as "sensitive" and handled with extra care
 
 ## Common Issues & Solutions

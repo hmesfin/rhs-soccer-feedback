@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Emergency Contact
-    url: mailto:admin@rhssoccer.org
+    url: mailto:admin@gojjoapps.com
     about: For urgent matters requiring immediate attention (game day issues, safety concerns)
   - name: General Questions
-    url: mailto:info@rhssoccer.org
+    url: mailto:info@gojjoapps.com
     about: For general inquiries that don't require issue tracking
   - name: Documentation
-    url: https://github.com/yourusername/rhs-soccer-feedback/wiki
+    url: https://github.com/hmesfin/rhs-soccer-feedback/wiki
     about: Check our documentation for common solutions and guides

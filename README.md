@@ -77,6 +77,13 @@ While this is primarily for issue reporting, we welcome:
 - User experience feedback
 - Bug reports
 
+## Helpful Links
+
+  - [Documentation](https://app.rhsboyssoccer.com/help)
+  - [Migration Plan](Data-Migration-Plan)
+  - [FAQs](FAQs)
+
+
 Thank you for helping us improve the RHS Soccer system!
 
 ---

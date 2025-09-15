@@ -9,3 +9,6 @@ contact_links:
   - name: Documentation
     url: https://app.rhsboyssoccer.com/help
     about: Check our documentation for common solutions and guides
+  - name: Migration Plan
+    url: https://github.com/hmesfin/rhs-soccer-feedback/wiki/Migration-Plan
+    about: Details on the transition to the new platform

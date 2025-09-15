@@ -29,16 +29,19 @@ assignees: ''
 ## Environment Information
 
 ### User Information
+
 - **Your Role:** <!-- Player / Parent / Coach / Admin / Other -->
 - **Team (if applicable):** <!-- e.g., Varsity Boys -->
 
 ### Browser/Device
+
 - **Browser:** <!-- e.g., Chrome, Safari, Firefox -->
 - **Browser Version:** <!-- e.g., 120.0 -->
 - **Device:** <!-- Desktop / Mobile / Tablet -->
 - **Operating System:** <!-- e.g., Windows 11, macOS 14, iOS 17 -->
 
 ### When Did This Happen?
+
 - **Date/Time:** <!-- When did you first notice this issue? -->
 - **Frequency:** <!-- Always / Sometimes / Only once -->
 
@@ -56,6 +59,7 @@ Paste any error messages here
 
 ---
 *For internal use:*
+
 - [ ] Issue confirmed
 - [ ] Priority assigned
 - [ ] Component identified

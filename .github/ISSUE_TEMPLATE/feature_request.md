@@ -26,6 +26,7 @@ Or explain why this feature would be valuable -->
 As a **[role]**, I want to **[action]** so that **[benefit]**.
 
 Examples:
+
 - As a **coach**, I want to **export team rosters to PDF** so that **I can have offline copies for games**.
 - As a **parent**, I want to **receive SMS notifications** so that **I don't miss important updates**.
 
@@ -35,6 +36,7 @@ Examples:
 ## Priority and Impact
 
 ### Who would use this feature?
+
 - [ ] Players
 - [ ] Parents
 - [ ] Coaches
@@ -51,6 +53,7 @@ Examples:
 - [ ] Low - Minor improvement
 
 ### How often would you use this feature?
+
 - [ ] Daily
 - [ ] Weekly
 - [ ] Monthly
@@ -65,6 +68,7 @@ Examples:
 
 ---
 *For internal use:*
+
 - [ ] Feature reviewed
 - [ ] Feasibility assessed
 - [ ] Priority assigned

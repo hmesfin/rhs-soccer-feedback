@@ -22,6 +22,7 @@ assignees: ''
 <!-- Provide a clear description of your issue or question -->
 
 ## Your Role
+
 - [ ] Player
 - [ ] Parent/Guardian
 - [ ] Coach
@@ -46,6 +47,7 @@ assignees: ''
 <!-- If applicable, add screenshots or examples -->
 
 ## Priority
+
 - [ ] **High** - Blocking important activities
 - [ ] **Medium** - Causing inconvenience
 - [ ] **Low** - Minor issue
@@ -55,6 +57,7 @@ assignees: ''
 
 ---
 *For internal use:*
+
 - [ ] Issue categorized
 - [ ] Priority confirmed
 - [ ] Assigned to appropriate team

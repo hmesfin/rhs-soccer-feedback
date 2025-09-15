@@ -23,12 +23,14 @@ assignees: ''
 <!-- Please provide as much information as possible -->
 
 ### Account Details
+
 - **Email Address:** <!-- The email used for registration -->
 - **User Type:** <!-- Parent / Player / Coach -->
 - **Player Name (if applicable):**
 - **Team:** <!-- Which team are you trying to register for? -->
 
 ### Registration Method
+
 - [ ] Self-registration through website
 - [ ] Invitation link from coach
 - [ ] Bulk import by administrator
@@ -44,6 +46,7 @@ assignees: ''
 <!-- e.g., "Got error message saying email already exists" -->
 
 ### When did this start?
+
 - **Date/Time:**
 - **First occurrence or ongoing?**
 
@@ -77,11 +80,13 @@ Paste error messages here
 <!-- Any other details that might help us resolve this issue -->
 
 ### Best Way to Contact You
+
 - **Preferred Contact Method:** <!-- Email / Phone / Text -->
 - **Phone (if urgent):** <!-- Optional, for critical issues only -->
 
 ---
 *For internal use:*
+
 - [ ] Account verified in system
 - [ ] Registration status checked
 - [ ] Role assignments verified

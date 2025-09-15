@@ -25,6 +25,7 @@ assignees: ''
 <!-- Provide details about the payment -->
 
 ### Basic Information
+
 - **Player Name:**
 - **Team:**
 - **Payment Date (if completed):**
@@ -72,6 +73,7 @@ Paste error messages here
 - [ ] Other: ___________
 
 ## Urgency Level
+
 - [ ] **Critical** - Blocking participation in upcoming game/event
 - [ ] **High** - Payment deadline approaching
 - [ ] **Medium** - Need resolution within a week
@@ -103,6 +105,7 @@ Paste error messages here
 
 ---
 *For internal use:*
+
 - [ ] Payment verified in Stripe
 - [ ] Database record checked
 - [ ] Treasurer notified

@@ -64,10 +64,9 @@ To help us resolve your issue faster:
 
 ## Contact Information
 
-- **General Support**: <support@rhssoccer.org>
-- **Urgent Issues**: (612) 555-0100 (game day only)
-- **Treasurer**: <treasurer@rhssoccer.org>
-- **Technical Admin**: <admin@rhssoccer.org>
+- **General Support**: <support@gojjoapps.com>
+- **Urgent Issues**: (612) 249-4117 (game day only)
+- **Technical Admin**: <admin@gojjoapps.com>
 
 ## Contributing
 
